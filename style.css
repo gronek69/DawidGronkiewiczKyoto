@@ -129,7 +129,7 @@ a:active
 
 ul
 {
-	list-style-position: outside;
+	list-style-position: inside;
 	list-style-type: disc;
 }
 
